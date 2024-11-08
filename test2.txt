@@ -1,0 +1,2 @@
+When users google for a word or any query, their system internally runs a pipeline in order to process what the person is querying.
+I really loved the movie and show, the movie was showing reality but it showed sometimes nonesense!
